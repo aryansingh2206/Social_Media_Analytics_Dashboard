@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Analytics</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="script.js"></script>
+</head>
+<body class="bg-gray-900 text-white">
+
+    <!-- Navbar -->
+    <nav class="bg-gray-800 p-4 shadow-md">
+        <div class="max-w-6xl mx-auto flex justify-between">
+            <h1 class="text-xl font-bold">📊 Social Media Analytics</h1>
+            <button id="darkModeToggle" class="bg-gray-700 px-4 py-2 rounded">🌓 Dark Mode</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="max-w-6xl mx-auto mt-6 p-4">
+        
+        <!-- Twitter Stats -->
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                <h2 class="text-lg font-semibold mb-2">Twitter Analytics</h2>
+                <div class="relative w-full h-80">
+                    <canvas id="twitterChart"></canvas>
+                </div>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                <h2 class="text-lg font-semibold mb-2">Recent Tweets</h2>
+                <ul id="tweetList" class="space-y-4"></ul>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
