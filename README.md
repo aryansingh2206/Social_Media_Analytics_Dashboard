@@ -49,7 +49,8 @@
 - Deploy full project on **InfinityFree, FreeHosting, or Vercel (for frontend only).**
 
 ## 📷 Screenshots
-![Dashboard Screenshot](https://via.placeholder.com/800x400)
+![image](https://github.com/user-attachments/assets/9ab737b9-af6d-487c-98f3-4a5aa1b639f8)
+
 
 ## 🔥 Future Enhancements
 - 📌 **Multi-platform Analytics** – Support for Facebook, Instagram, LinkedIn.
