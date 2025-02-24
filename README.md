@@ -1,5 +1,5 @@
-# Social_Media_Analytics
-# 📊 Social Media Analytics
+
+## 📊 Social Media Analytics Dashboard
 
 ## 🚀 Overview
 **Social Media Analytics** is a web-based platform that fetches, analyzes, and visualizes engagement metrics from Twitter. It helps users track likes, comments, and shares on their recent tweets, providing insights through interactive charts and analytics tools.
