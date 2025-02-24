@@ -57,12 +57,7 @@
 - 🏆 **Advanced Sentiment Analysis** – AI-powered insights on tweet sentiment.
 - 📅 **Custom Date Filters** – Select time ranges for analysis.
 
-## 📜 License
-This project is licensed under the MIT License – feel free to modify and distribute!
-
 ## 🤝 Contributing
 Want to improve this project? Fork the repo and submit a PR!
 
-## 📩 Contact
-📧 **Aryan Singh** – [GitHub](https://github.com/aryansingh2206) | [Email](mailto:your-email@example.com)
 
